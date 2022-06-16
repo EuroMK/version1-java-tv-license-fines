@@ -49,5 +49,5 @@ jobs:
         with:
           app-name: 'group3-clientsim'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_52546EE7C0D84BFF841FFB36120A5DE2 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_8495FE8F7C85487BBC3E64CDCB98EBDA }}
           package: '*.jar'
